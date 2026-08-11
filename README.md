@@ -1,12 +1,9 @@
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3200&pause=900&color=E55F18&center=true&vCenter=true&repeat=true&width=760&lines=Hi%2C+I'm+Faisal+Khan;MERN+Stack+%26+WordPress+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+WordPress;Co-Founder+%40+SparkDevX"
-    alt="Faisal Khan — MERN Stack & WordPress Developer"
-  />
-</h1>
+<h1 align="center">Faisal Khan</h1>
+
+<h3 align="center">MERN Stack & WordPress Developer</h3>
 
 <p align="center">
-  I build modern, scalable, production-ready websites and web applications. My work covers frontend and backend systems, deployment, performance, and ongoing optimization.
+  Building reliable web products from frontend to production.
 </p>
 
 <p align="center">
@@ -23,8 +20,6 @@
     <img src="https://img.shields.io/badge/Email-E55F18?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
 
 ## 👨‍💻 About Me
 
